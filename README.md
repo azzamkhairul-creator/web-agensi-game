@@ -23,7 +23,3 @@ Semoga proyek-proyek yang saya buat bisa terus berkembang dan bermanfaat.
   <img src="https://github-readme-stats.vercel.app/api?username=azzamkhairul-creator&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azzamkhairul-creator&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azzamkhairul-creator&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azzamkhairul-creator&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
