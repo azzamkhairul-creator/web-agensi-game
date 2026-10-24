@@ -28,9 +28,6 @@ Semoga proyek-proyek yang saya buat bisa terus berkembang dan bermanfaat.
   <a href="https://instagram.com/luvzamma"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=tokyonight&height=200&section=header&text=Halo,%20Saya%20Azzam!&fontSize=50&animation=fadeIn" />
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=azzamkhairul-creator&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azzamkhairul-creator&layout=compact&theme=tokyonight" alt="Top Languages" />
