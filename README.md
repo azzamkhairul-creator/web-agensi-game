@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Halo,%20Saya%20Azzam!&fontSize=50&animation=fadeIn" />
-
 # 👋 Selamat Datang di GitHub Saya!
 Halo semuanya! 👋
 
