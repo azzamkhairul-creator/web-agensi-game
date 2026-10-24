@@ -35,8 +35,6 @@ Semoga proyek-proyek yang saya buat bisa terus berkembang dan bermanfaat.
   <img src="https://github-readme-stats.vercel.app/api?username=azzamkhairul-creator&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azzamkhairul-creator&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-<!-- BANNER HEADER (Paling Atas) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=tokyonight&height=200&section=header&text=Halo,%20Saya%20Azzam!&fontSize=50&animation=fadeIn" />
 
 <!-- BADGES TECH STACK -->
 <p align="center">
