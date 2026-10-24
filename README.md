@@ -35,3 +35,18 @@ Semoga proyek-proyek yang saya buat bisa terus berkembang dan bermanfaat.
   <img src="https://github-readme-stats.vercel.app/api?username=azzamkhairul-creator&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azzamkhairul-creator&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+<!-- BANNER HEADER (Paling Atas) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=tokyonight&height=200&section=header&text=Halo,%20Saya%20Azzam!&fontSize=50&animation=fadeIn" />
+
+<!-- BADGES TECH STACK -->
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<!-- STATISTIK GITHUB -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=azzamkhairul-creator&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azzamkhairul-creator&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
