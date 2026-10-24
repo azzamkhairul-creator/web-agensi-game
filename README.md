@@ -23,3 +23,8 @@ Semoga proyek-proyek yang saya buat bisa terus berkembang dan bermanfaat.
   <img src="https://github-readme-stats.vercel.app/api?username=azzamkhairul-creator&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azzamkhairul-creator&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <a href="mailto:khairulazzam810@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/luvzamma"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
